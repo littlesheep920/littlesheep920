@@ -1,65 +1,62 @@
 <!--
   ============================================================
-  名探偵 PROFILE  /  Conan-Themed GitHub Profile README
+  littlesheep920 / GitHub Profile README
   ============================================================
   部署位置：仓库 littlesheep920/littlesheep920 的根目录，文件名为 README.md
   图片：全部放在同级的 pic/ 文件夹，清单见 pic/README-图片清单.md
+  说明：视觉层为侦探主题，正文为常规英文技术表述
   ============================================================
 -->
 
 <div align="center">
 
 <!-- ═══ 图片位置 1/6：主横幅 banner.png ═══ -->
-<img src="pic/banner.png" alt="CASE FILE" width="100%" />
+<img src="pic/banner.png" alt="Detective Notes" width="100%" />
 
 <br/><br/>
 
 <!-- 打字机：开源项目 DenverCoder1/readme-typing-svg -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=4A90D9&center=true&vCenter=true&width=620&lines=%E7%9C%9F%E7%9B%B8%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%E3%81%B2%E3%81%A8%E3%81%A4;Truth+is+always+one.;Building+AI+Agents+with+Python." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=4A90D9&center=true&vCenter=true&width=620&lines=AI+Agent+Engineering;Python+Backend+Development;Building+auditable+LLM+applications" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- 访客计数：开源项目 antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=littlesheep920&label=%E7%9B%AE%E6%92%83%E8%80%85&color=1F4E8C&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/badge/STATUS-%E4%BE%A6%E6%8E%A2%E4%B8%9A%E5%8A%A1%E4%B8%AD-1F4E8C?style=for-the-badge" alt="status" />
-<img src="https://img.shields.io/badge/%E7%9C%BC%E9%95%9C-%E5%8F%8D%E5%85%89%E4%B8%AD-D4AF37?style=for-the-badge" alt="glasses" />
+<img src="https://komarev.com/ghpvc/?username=littlesheep920&label=profile+views&color=1F4E8C&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-1F4E8C?style=for-the-badge" alt="status" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20AGENTS-D4AF37?style=for-the-badge" alt="focus" />
 
 </div>
 
 <!-- ═══ 图片位置 2/6：分隔线 divider.png（本文件会重复使用 5 次）═══ -->
 <img src="pic/divider.png" width="100%" />
 
-## 📁 CASE FILE — 本人档案
+## About
 
 <div align="center">
 <table>
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<!-- ═══ 图片位置 3/6：名台词插图 intro.png（建议 1:1 方图）═══ -->
-<img src="pic/intro.png" width="240" alt="真実はいつもひとつ" />
+<!-- ═══ 图片位置 3/6：插图 intro.png（建议 1:1 方图）═══ -->
+<img src="pic/intro.png" width="240" alt="Portrait" />
 
 </td>
 <td width="62%" valign="top">
 
-> **「真実はいつもひとつ」**
-> — 真相只有一个。
-
 ```yaml
-代号     : littlesheep920
-身份     : 天津大学 · 电子信息工程 在读
-方向     : AI Agent 工程 / Python 后端
-常用装备 : Python · LangGraph · RAG · FastAPI
-推理工具 : 代码 / 日志 / 向量检索
-当前任务 : SuperCoder — AI 能力资产治理与编排平台
-排除所有不可能，剩下的再离谱也是真相
+name        : littlesheep920
+role        : Undergraduate, Electronic Information Engineering
+university  : Tianjin University
+focus       : AI agent engineering / Python backend
+stack       : Python · LangGraph · RAG · FastAPI
+current work: SuperCoder — AI capability governance platform
 ```
 
-- 🔍 **正在做的事** — SuperCoder：给企业研发流程里的 AI 能力做资产治理与智能编排
-- 🧠 **关注领域** — Agent 编排 · 工具调用 · RAG 混合检索 · 多智能体协作 · 评测体系
-- 🎯 **追踪的目标** — 让 Agent 能自主规划、调用工具、记得住上下文，且每一步都可审计
+- **Currently building** — SuperCoder, a platform for governing and orchestrating AI capabilities across enterprise R&D workflows
+- **Areas of interest** — agent orchestration, tool calling, retrieval-augmented generation, multi-agent collaboration, evaluation
+- **Engineering approach** — agents should plan, use tools, retain context, and leave an auditable trace of every step
 
 </td>
 </tr>
@@ -69,12 +66,12 @@
 <!-- ═══ 分隔线 ═══ -->
 <img src="pic/divider.png" width="100%" />
 
-## 🔬 推理装备 — 技术栈
+## Tech Stack
 
 <div align="center">
 
 <!-- ═══ 图片位置 4/6：板块标题图 stack-header.png ═══ -->
-<img src="pic/stack-header.png" width="100%" alt="TECH STACK" />
+<img src="pic/stack-header.png" width="100%" alt="Technical Toolkit" />
 
 <br/><br/>
 
@@ -83,14 +80,14 @@
 
 <br/><br/>
 
-### 🐍 主武器 — Python 生态
+### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 🤖 特殊装备 — Agent 与 LLM
+### AI & Agents
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white)
@@ -103,7 +100,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 ![AutoGen](https://img.shields.io/badge/Microsoft%20AutoGen-0078D4?style=for-the-badge)
 
-### 🧰 后勤 — 工程化
+### Infrastructure & Tooling
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -116,7 +113,7 @@
 <!-- ═══ 分隔线 ═══ -->
 <img src="pic/divider.png" width="100%" />
 
-## 🕵️ 事件簿 — Agent 架构
+## Agent Architecture
 
 <div align="center">
 
@@ -125,31 +122,31 @@
 
 </div>
 
-| 模块 | 职责 | 我的实现 |
+| Module | Responsibility | Implementation |
 | :--- | :--- | :--- |
-| 🧭 **Planner** | 拆解目标、决定下一步 | LLM 规划 + ReAct 循环 |
-| 🛠️ **Tool Use** | 调用外部能力 | Function Calling / MCP Server |
-| 🧠 **Memory** | 记住上下文与历史 | 短期会话记忆 + 长期向量库 |
-| 📚 **RAG** | 检索证据再回答 | Chroma 向量检索 + 重排序 |
-| 👥 **Multi-Agent** | 多个 Agent 分工协作 | LangGraph 状态机 / CrewAI 角色制 |
-| ✅ **Evaluation** | 判断推理对不对 | 轨迹回放 + 自动评分 |
+| **Planner** | Break down goals and decide the next step | LLM planning with a ReAct loop |
+| **Tool Use** | Call external capabilities | Function calling / MCP servers |
+| **Memory** | Retain context across turns | Session memory plus a long-term vector store |
+| **RAG** | Ground answers in retrieved sources | Chroma vector search with re-ranking |
+| **Multi-Agent** | Divide work across specialised agents | LangGraph state machine / CrewAI role design |
+| **Evaluation** | Verify whether the output holds up | Trajectory replay and automated scoring |
 
 <!-- ═══ 分隔线 ═══ -->
 <img src="pic/divider.png" width="100%" />
 
-## 📌 进行中的案件 — Projects
+## Projects
 
-| 案件 | 案情 | 装备 | 状态 |
+| Repository | Description | Stack | Activity |
 | :--- | :--- | :--- | :--- |
-| 🕵️ **[SuperCoder](https://github.com/littlesheep920/SuperCoder)** | 面向企业研发流程的 AI 能力资产治理与智能编排平台。六类资源协议、七状态生命周期治理、混合检索与评测体系，六份冻结契约文档与代码同等权威 | `Python` `FastAPI` `MySQL` `混合检索` | ![](https://img.shields.io/github/last-commit/littlesheep920/SuperCoder?style=flat-square&color=1F4E8C&label=updated&display_timestamp=committer&labelColor=0D1117) ![](https://img.shields.io/github/stars/littlesheep920/SuperCoder?style=flat-square&color=D4AF37&label=stars&labelColor=0D1117) |
-| 🏛️ **[FTO-AGENT](https://github.com/littlesheep920/FTO-AGENT)** | 多 Agent 专利自由实施（FTO）分析系统，面向中国法域 · 控弯导管领域。把「查专利是否侵权」这件苦力活交给 Agent 去搜集证据、逐条比对 | `FastAPI` `LangGraph` `Tortoise ORM` `MySQL` | ![](https://img.shields.io/github/last-commit/littlesheep920/FTO-AGENT?style=flat-square&color=1F4E8C&label=updated&display_timestamp=committer&labelColor=0D1117) |
-| 🧪 **[ai-agent-learning](https://github.com/littlesheep920/ai-agent-learning)** | RAG 知识问答系统：文档切分 → Embedding → 向量检索 → Prompt 组装 → 生成回答，含命令行版与 Gradio 网页版 | `LangChain` `Chroma` `GLM-4-Flash` `Gradio` | ![](https://img.shields.io/github/last-commit/littlesheep920/ai-agent-learning?style=flat-square&color=1F4E8C&label=updated&display_timestamp=committer&labelColor=0D1117) |
-| 📚 **[pdf-textbook-slides](https://github.com/littlesheep920/pdf-textbook-slides)** | 把教辅／教材 PDF（含扫描件）转成讲课讲题用的单文件 HTML 幻灯片，并导出 16:9 PDF。含渲染、分片拼接、裁切质检、导出四个脚本 | `Python` `PDF 处理` | ![](https://img.shields.io/github/last-commit/littlesheep920/pdf-textbook-slides?style=flat-square&color=1F4E8C&label=updated&display_timestamp=committer&labelColor=0D1117) |
+| **[SuperCoder](https://github.com/littlesheep920/SuperCoder)** | AI capability governance and orchestration platform for enterprise R&D workflows. Six resource protocols, a seven-state lifecycle model, hybrid retrieval and an evaluation pipeline, with six frozen contract documents carrying the same authority as the code | `Python` `FastAPI` `MySQL` `Hybrid Retrieval` | ![](https://img.shields.io/github/last-commit/littlesheep920/SuperCoder?style=flat-square&color=1F4E8C&label=updated&display_timestamp=committer&labelColor=0D1117) ![](https://img.shields.io/github/stars/littlesheep920/SuperCoder?style=flat-square&color=D4AF37&label=stars&labelColor=0D1117) |
+| **[FTO-AGENT](https://github.com/littlesheep920/FTO-AGENT)** | Multi-agent freedom-to-operate analysis system for the Chinese jurisdiction, focused on steerable catheters. Delegates patent infringement screening to agents that gather evidence and compare claims item by item | `FastAPI` `LangGraph` `Tortoise ORM` `MySQL` | ![](https://img.shields.io/github/last-commit/littlesheep920/FTO-AGENT?style=flat-square&color=1F4E8C&label=updated&display_timestamp=committer&labelColor=0D1117) |
+| **[ai-agent-learning](https://github.com/littlesheep920/ai-agent-learning)** | Retrieval-augmented question answering: document chunking, embedding, vector search, prompt assembly and generation. Ships both a CLI and a Gradio web interface | `LangChain` `Chroma` `GLM-4-Flash` `Gradio` | ![](https://img.shields.io/github/last-commit/littlesheep920/ai-agent-learning?style=flat-square&color=1F4E8C&label=updated&display_timestamp=committer&labelColor=0D1117) |
+| **[pdf-textbook-slides](https://github.com/littlesheep920/pdf-textbook-slides)** | Converts textbook and course-material PDFs, including scanned documents, into single-file HTML slide decks for teaching, and exports them as 16:9 PDFs. Includes rendering, chunk stitching, crop QA and export scripts | `Python` `PDF Processing` | ![](https://img.shields.io/github/last-commit/littlesheep920/pdf-textbook-slides?style=flat-square&color=1F4E8C&label=updated&display_timestamp=committer&labelColor=0D1117) |
 
 <div align="center">
 
 <a href="https://github.com/littlesheep920?tab=repositories">
-  <img src="https://img.shields.io/badge/%E5%B1%95%E5%BC%80%E5%85%A8%E9%83%A8%E6%A1%A3%E6%A1%88-181717?style=for-the-badge&logo=github&logoColor=white" alt="repos" />
+  <img src="https://img.shields.io/badge/View%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="repos" />
 </a>
 
 </div>
@@ -157,7 +154,7 @@
 <!-- ═══ 分隔线 ═══ -->
 <img src="pic/divider.png" width="100%" />
 
-## 🔎 证据链 — GitHub 战绩
+## GitHub Activity
 
 <div align="center">
 
@@ -202,15 +199,10 @@
 <div align="center">
 
 <!-- ═══ 图片位置 6/6：结尾横幅 footer.png ═══ -->
-<img src="pic/footer.png" width="100%" alt="TRUTH IS ALWAYS ONE" />
+<img src="pic/footer.png" width="100%" alt="Keep Observing" />
 
 <br/><br/>
 
-> **真相只有一个，但通往真相的路不止一条。**
-
-<br/>
-
-<!-- 联系我 -->
 <a href="mailto:3023234119@tju.edu.cn">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
@@ -220,12 +212,11 @@
 
 <br/><br/>
 
-<sub>本页由 <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> ·
+<sub>Built with <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> ·
 <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a> ·
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> ·
 <a href="https://github.com/tandpfun/skill-icons">skill-icons</a> ·
 <a href="https://github.com/Platane/snk">snk</a> ·
-<a href="https://github.com/yoshi389111/github-profile-3d-contrib">3d-contrib</a>
-等开源项目驱动</sub>
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib">3d-contrib</a></sub>
 
 </div>

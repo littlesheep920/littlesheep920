@@ -141,10 +141,10 @@
 
 | 案件 | 案情 | 装备 | 状态 |
 | :--- | :--- | :--- | :--- |
-| 🕵️ **[SuperCoder](https://github.com/littlesheep920/SuperCoder)** | 面向企业研发流程的 AI 能力资产治理与智能编排平台。六类资源协议、七状态生命周期治理、混合检索与评测体系，六份冻结契约文档与代码同等权威 | `Python` `FastAPI` `MySQL` `混合检索` | ![](https://img.shields.io/github/last-commit/littlesheep920/SuperCoder?style=flat-square&color=1F4E8C&label=) ![](https://img.shields.io/github/stars/littlesheep920/SuperCoder?style=flat-square&color=D4AF37&label=) |
-| 🏛️ **[FTO-AGENT](https://github.com/littlesheep920/FTO-AGENT)** | 多 Agent 专利自由实施（FTO）分析系统，面向中国法域 · 控弯导管领域。把「查专利是否侵权」这件苦力活交给 Agent 去搜集证据、逐条比对 | `FastAPI` `LangGraph` `Tortoise ORM` `MySQL` | ![](https://img.shields.io/github/last-commit/littlesheep920/FTO-AGENT?style=flat-square&color=1F4E8C&label=) |
-| 🧪 **[ai-agent-learning](https://github.com/littlesheep920/ai-agent-learning)** | RAG 知识问答系统：文档切分 → Embedding → 向量检索 → Prompt 组装 → 生成回答，含命令行版与 Gradio 网页版 | `LangChain` `Chroma` `GLM-4-Flash` `Gradio` | ![](https://img.shields.io/github/last-commit/littlesheep920/ai-agent-learning?style=flat-square&color=1F4E8C&label=) |
-| 📚 **[pdf-textbook-slides](https://github.com/littlesheep920/pdf-textbook-slides)** | 把教辅／教材 PDF（含扫描件）转成讲课讲题用的单文件 HTML 幻灯片，并导出 16:9 PDF。含渲染、分片拼接、裁切质检、导出四个脚本 | `Python` `PDF 处理` | ![](https://img.shields.io/github/last-commit/littlesheep920/pdf-textbook-slides?style=flat-square&color=1F4E8C&label=) |
+| 🕵️ **[SuperCoder](https://github.com/littlesheep920/SuperCoder)** | 面向企业研发流程的 AI 能力资产治理与智能编排平台。六类资源协议、七状态生命周期治理、混合检索与评测体系，六份冻结契约文档与代码同等权威 | `Python` `FastAPI` `MySQL` `混合检索` | ![](https://img.shields.io/github/last-commit/littlesheep920/SuperCoder?style=flat-square&color=1F4E8C&label=updated&display_timestamp=committer&labelColor=0D1117) ![](https://img.shields.io/github/stars/littlesheep920/SuperCoder?style=flat-square&color=D4AF37&label=stars&labelColor=0D1117) |
+| 🏛️ **[FTO-AGENT](https://github.com/littlesheep920/FTO-AGENT)** | 多 Agent 专利自由实施（FTO）分析系统，面向中国法域 · 控弯导管领域。把「查专利是否侵权」这件苦力活交给 Agent 去搜集证据、逐条比对 | `FastAPI` `LangGraph` `Tortoise ORM` `MySQL` | ![](https://img.shields.io/github/last-commit/littlesheep920/FTO-AGENT?style=flat-square&color=1F4E8C&label=updated&display_timestamp=committer&labelColor=0D1117) |
+| 🧪 **[ai-agent-learning](https://github.com/littlesheep920/ai-agent-learning)** | RAG 知识问答系统：文档切分 → Embedding → 向量检索 → Prompt 组装 → 生成回答，含命令行版与 Gradio 网页版 | `LangChain` `Chroma` `GLM-4-Flash` `Gradio` | ![](https://img.shields.io/github/last-commit/littlesheep920/ai-agent-learning?style=flat-square&color=1F4E8C&label=updated&display_timestamp=committer&labelColor=0D1117) |
+| 📚 **[pdf-textbook-slides](https://github.com/littlesheep920/pdf-textbook-slides)** | 把教辅／教材 PDF（含扫描件）转成讲课讲题用的单文件 HTML 幻灯片，并导出 16:9 PDF。含渲染、分片拼接、裁切质检、导出四个脚本 | `Python` `PDF 处理` | ![](https://img.shields.io/github/last-commit/littlesheep920/pdf-textbook-slides?style=flat-square&color=1F4E8C&label=updated&display_timestamp=committer&labelColor=0D1117) |
 
 <div align="center">
 

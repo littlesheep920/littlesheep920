@@ -53,13 +53,13 @@
 方向     : AI Agent 工程 / Python 后端
 常用装备 : Python · LangGraph · RAG · FastAPI
 推理工具 : 代码 / 日志 / 向量检索
-当前任务 : 把 LLM 从「会聊天」带成「能办事」
+当前任务 : SuperCoder — AI 能力资产治理与编排平台
 排除所有不可能，剩下的再离谱也是真相
 ```
 
-- 🔍 **正在做的事** — 用多 Agent 系统做 FTO（自由实施）专利侵权分析
-- 🧠 **关注领域** — Agent 编排 · 工具调用 · RAG 检索增强 · 多智能体协作
-- 🎯 **追踪的目标** — 让 Agent 能自主规划、调用工具、记得住上下文
+- 🔍 **正在做的事** — SuperCoder：给企业研发流程里的 AI 能力做资产治理与智能编排
+- 🧠 **关注领域** — Agent 编排 · 工具调用 · RAG 混合检索 · 多智能体协作 · 评测体系
+- 🎯 **追踪的目标** — 让 Agent 能自主规划、调用工具、记得住上下文，且每一步都可审计
 
 </td>
 </tr>
@@ -139,11 +139,12 @@
 
 ## 📌 进行中的案件 — Projects
 
-| 案件 | 案情 | 装备 |
-| :--- | :--- | :--- |
-| 🏛️ **[FTO-AGENT](https://github.com/littlesheep920/FTO-AGENT)** | 多 Agent 专利自由实施（FTO）分析系统，面向中国法域 · 控弯导管领域。把「查专利是否侵权」这件苦力活交给 Agent 去搜集证据、逐条比对 | `FastAPI` `LangGraph` `Tortoise ORM` `MySQL` |
-| 🧪 **[ai-agent-learning](https://github.com/littlesheep920/ai-agent-learning)** | RAG 知识问答系统：文档切分 → Embedding → 向量检索 → Prompt 组装 → 生成回答，含命令行版与 Gradio 网页版 | `LangChain` `Chroma` `GLM-4-Flash` `Gradio` |
-| 📚 **[pdf-textbook-slides](https://github.com/littlesheep920/pdf-textbook-slides)** | 把教辅／教材 PDF（含扫描件）转成讲课讲题用的单文件 HTML 幻灯片，并导出 16:9 PDF。含渲染、分片拼接、裁切质检、导出四个脚本 | `Python` `PDF 处理` |
+| 案件 | 案情 | 装备 | 状态 |
+| :--- | :--- | :--- | :--- |
+| 🕵️ **[SuperCoder](https://github.com/littlesheep920/SuperCoder)** | 面向企业研发流程的 AI 能力资产治理与智能编排平台。六类资源协议、七状态生命周期治理、混合检索与评测体系，六份冻结契约文档与代码同等权威 | `Python` `FastAPI` `MySQL` `混合检索` | ![](https://img.shields.io/github/last-commit/littlesheep920/SuperCoder?style=flat-square&color=1F4E8C&label=) ![](https://img.shields.io/github/stars/littlesheep920/SuperCoder?style=flat-square&color=D4AF37&label=) |
+| 🏛️ **[FTO-AGENT](https://github.com/littlesheep920/FTO-AGENT)** | 多 Agent 专利自由实施（FTO）分析系统，面向中国法域 · 控弯导管领域。把「查专利是否侵权」这件苦力活交给 Agent 去搜集证据、逐条比对 | `FastAPI` `LangGraph` `Tortoise ORM` `MySQL` | ![](https://img.shields.io/github/last-commit/littlesheep920/FTO-AGENT?style=flat-square&color=1F4E8C&label=) |
+| 🧪 **[ai-agent-learning](https://github.com/littlesheep920/ai-agent-learning)** | RAG 知识问答系统：文档切分 → Embedding → 向量检索 → Prompt 组装 → 生成回答，含命令行版与 Gradio 网页版 | `LangChain` `Chroma` `GLM-4-Flash` `Gradio` | ![](https://img.shields.io/github/last-commit/littlesheep920/ai-agent-learning?style=flat-square&color=1F4E8C&label=) |
+| 📚 **[pdf-textbook-slides](https://github.com/littlesheep920/pdf-textbook-slides)** | 把教辅／教材 PDF（含扫描件）转成讲课讲题用的单文件 HTML 幻灯片，并导出 16:9 PDF。含渲染、分片拼接、裁切质检、导出四个脚本 | `Python` `PDF 处理` | ![](https://img.shields.io/github/last-commit/littlesheep920/pdf-textbook-slides?style=flat-square&color=1F4E8C&label=) |
 
 <div align="center">
 
